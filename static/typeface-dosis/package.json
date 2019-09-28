@@ -1,0 +1,48 @@
+{
+  "_from": "typeface-dosis",
+  "_id": "typeface-dosis@0.0.72",
+  "_inBundle": false,
+  "_integrity": "sha512-EC9TLuX+27in9/OMMUF27L/czJQRuQXtLVGw+FOJ2x+IITvvEJLviylARV6D4YcqMDQv85wVCgzgQ5tMdNe11Q==",
+  "_location": "/typeface-dosis",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "typeface-dosis",
+    "name": "typeface-dosis",
+    "escapedName": "typeface-dosis",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/typeface-dosis/-/typeface-dosis-0.0.72.tgz",
+  "_shasum": "fac9495f7b98b20ed734702294e6f58daecfa9e5",
+  "_spec": "typeface-dosis",
+  "_where": "/Users/corey/Projects/coreygo",
+  "author": {
+    "name": "Kyle Mathews",
+    "email": "mathews.kyle@gmail.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Dosis typeface",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "dosis"
+  ],
+  "license": "MIT",
+  "main": "index.css",
+  "name": "typeface-dosis",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyleAMathews/typefaces/tree/master/packages/dosis"
+  },
+  "version": "0.0.72"
+}

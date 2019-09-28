@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+
+sitemap: https://www.coreygo.com/sitemap.xml
